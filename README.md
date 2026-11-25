@@ -12,7 +12,7 @@
 <img src="https://komarev.com/ghpvc/?username=ilyassrachouady&style=for-the-badge&color=0d1117&labelColor=1a1a2e&label=PROFILE+VIEWS" alt="Profile Views"/>
 </p>
 
-<a href="https://ilyassrachouady.site">
+<a href="https://ilyassrachouady.com">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 <a href="https://linkedin.com/in/ilyassrachouady">
